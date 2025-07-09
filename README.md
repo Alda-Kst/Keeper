@@ -40,7 +40,7 @@ A simple and elegant note-taking app built with **React**, **Vite**, and **Mater
 ```bash
 git clone https://github.com/alda-kst/Keeper.git
 cd Keeper
-2. **Install dependencies:**
+2. ## Install dependencies:
    npm install --legacy-peer-deps
 3. **Run locally:**
    npm run dev
