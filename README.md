@@ -2,7 +2,7 @@
 
 A simple and elegant note-taking app built with **React**, **Vite**, and **Material UI**, inspired by Google Keep. Create, view, and delete notes in a responsive, fast UI.
 
-![Keeper App Screenshot](https://user-images.githubusercontent.com/placeholder/keeper-screenshot.png)
+
 
 
 ---
