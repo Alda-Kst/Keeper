@@ -36,4 +36,3 @@ A simple and elegant note-taking app built with **React**, **Vite**, and **Mater
 
 
 
-
