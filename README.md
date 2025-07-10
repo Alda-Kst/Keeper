@@ -18,7 +18,6 @@ A simple and elegant note-taking app built with **React**, **Vite**, and **Mater
 - ⚛️ React 18
 - ⚡ Vite
 - 🎨 Material UI (MUI v5)
-- 💅 Emotion for styling
 - 📄 GitHub Pages for deployment
 
 ---
